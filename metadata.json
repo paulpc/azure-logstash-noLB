@@ -1,0 +1,7 @@
+{
+  "itemDisplayName": "Load Balanced Logstash cluster",
+  "description": "This template allows you to create N Virtual Machines cluster under a Load balancer and configure load balancing rules for logstash. This template also deploys a Storage Account, Virtual Network, Public IP address, Availability Set and Network Interfaces. In this template, we use the resource loops capability to create the network interfaces and virtual machines",
+  "summary": "Load Balanced Logstash cluster",
+  "githubUsername": "paulpc",
+  "dateUpdated": "2017-11-22"
+}
